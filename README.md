@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Arishlinuxuser">
-    <img src="https://img.shields.io/github/followers/Arishlinuxuser?label=Followers&style=for-the-badge" alt="GitHub followers" />
-  </a>
+    </a>
   <img src="https://komarev.com/ghpvc/?username=Arishlinuxuser&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
